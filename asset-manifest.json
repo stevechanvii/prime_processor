@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/prime_processor/static/css/main.db25d26a.chunk.css",
+    "main.css": "/prime_processor/static/css/main.6cfb9c75.chunk.css",
     "main.js": "/prime_processor/static/js/main.55316290.chunk.js",
     "main.js.map": "/prime_processor/static/js/main.55316290.chunk.js.map",
     "runtime-main.js": "/prime_processor/static/js/runtime-main.30d5ffb3.js",
@@ -8,16 +8,16 @@
     "static/js/2.87f39bdd.chunk.js": "/prime_processor/static/js/2.87f39bdd.chunk.js",
     "static/js/2.87f39bdd.chunk.js.map": "/prime_processor/static/js/2.87f39bdd.chunk.js.map",
     "index.html": "/prime_processor/index.html",
-    "precache-manifest.394827ec202e728ccb50246d7788c983.js": "/prime_processor/precache-manifest.394827ec202e728ccb50246d7788c983.js",
+    "precache-manifest.d4ec558540b188b27a1ff967c6d31188.js": "/prime_processor/precache-manifest.d4ec558540b188b27a1ff967c6d31188.js",
     "service-worker.js": "/prime_processor/service-worker.js",
-    "static/css/main.db25d26a.chunk.css.map": "/prime_processor/static/css/main.db25d26a.chunk.css.map",
+    "static/css/main.6cfb9c75.chunk.css.map": "/prime_processor/static/css/main.6cfb9c75.chunk.css.map",
     "static/js/2.87f39bdd.chunk.js.LICENSE.txt": "/prime_processor/static/js/2.87f39bdd.chunk.js.LICENSE.txt",
     "static/media/cpu.svg": "/prime_processor/static/media/cpu.536222e7.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.30d5ffb3.js",
     "static/js/2.87f39bdd.chunk.js",
-    "static/css/main.db25d26a.chunk.css",
+    "static/css/main.6cfb9c75.chunk.css",
     "static/js/main.55316290.chunk.js"
   ]
 }
