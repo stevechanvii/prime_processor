@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/prime_processor/static/css/main.db25d26a.chunk.css",
-    "main.js": "/prime_processor/static/js/main.d59040ad.chunk.js",
-    "main.js.map": "/prime_processor/static/js/main.d59040ad.chunk.js.map",
+    "main.js": "/prime_processor/static/js/main.55316290.chunk.js",
+    "main.js.map": "/prime_processor/static/js/main.55316290.chunk.js.map",
     "runtime-main.js": "/prime_processor/static/js/runtime-main.30d5ffb3.js",
     "runtime-main.js.map": "/prime_processor/static/js/runtime-main.30d5ffb3.js.map",
     "static/js/2.87f39bdd.chunk.js": "/prime_processor/static/js/2.87f39bdd.chunk.js",
     "static/js/2.87f39bdd.chunk.js.map": "/prime_processor/static/js/2.87f39bdd.chunk.js.map",
     "index.html": "/prime_processor/index.html",
-    "precache-manifest.37d9187c0630171ec14501b24b9e697a.js": "/prime_processor/precache-manifest.37d9187c0630171ec14501b24b9e697a.js",
+    "precache-manifest.394827ec202e728ccb50246d7788c983.js": "/prime_processor/precache-manifest.394827ec202e728ccb50246d7788c983.js",
     "service-worker.js": "/prime_processor/service-worker.js",
     "static/css/main.db25d26a.chunk.css.map": "/prime_processor/static/css/main.db25d26a.chunk.css.map",
     "static/js/2.87f39bdd.chunk.js.LICENSE.txt": "/prime_processor/static/js/2.87f39bdd.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.30d5ffb3.js",
     "static/js/2.87f39bdd.chunk.js",
     "static/css/main.db25d26a.chunk.css",
-    "static/js/main.d59040ad.chunk.js"
+    "static/js/main.55316290.chunk.js"
   ]
 }
