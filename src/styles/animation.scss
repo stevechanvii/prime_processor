@@ -1,0 +1,29 @@
+@keyframes scale {
+    from {
+        opacity: 0;
+        transform: scale3d(0.3, 0.3, 0.3);
+    }
+    to {
+        opacity: 1;
+        transform: scale3d(1, 1, 1);
+    }
+}
+
+@keyframes moveInRight {
+    /* start at 0 */
+    0% {
+        opacity: 0;
+        /* positive value means it goes to the right, negative goes to left */
+        transform: translateX(10rem);
+    }
+
+    80% {
+        transform: translateX(-1rem);
+    }
+
+    /* end at 100 */
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
+}
