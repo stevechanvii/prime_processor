@@ -26,7 +26,7 @@ const PrimeGenerator = () => {
     const hideModal = () => setVisible(false);
 
     /**
-     * Radio button change handler
+     * algorithm button handler
      */
     const onAlgorithmCheckClick = () => {
         console.log('Check');
@@ -40,6 +40,7 @@ const PrimeGenerator = () => {
     const clickHandler = () => {
         const n = parseInt(primeCount);
         console.log(algorithm);
+        // Validation
         if (n > 0 && Number.isInteger(n)) {
             if (algorithm === 'Brute Force' && primeCount > 10000) {
                 setModal({
@@ -53,7 +54,7 @@ const PrimeGenerator = () => {
                 setModal({
                     name: 'Error',
                     desc: [
-                        'Eratosthenes algorithm support numbers up to 500,000, plesase try a smaller number',
+                        'Eratosthenes algorithm supports numbers up to 500,000, plesase try a smaller number',
                     ],
                 });
                 showModal();
