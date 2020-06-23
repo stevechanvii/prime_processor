@@ -16,12 +16,12 @@
     }
 
     &-img {
-        width: 50%;
+        width: 30%;
     }
 }
 
 .generator {
-    display: flex;
+    // display: flex;
     flex-direction: column;
     align-items: center;
 
@@ -119,7 +119,11 @@
         &-button-group {
             display: flex;
             justify-content: space-evenly;
-            width: 80%;
+            width: 50%;
+
+            @media only screen and (max-width: $bp-small) {
+                width: 80%;
+            }
         }
 
         &-button {
